@@ -94,4 +94,5 @@ Nest is [MIT licensed](LICENSE).
   . MongoDB
     
 ```
-
+## Link da Apresentação
+- https://www.loom.com/embed/79b7c3e7e891445081b3d6e99014b983
