@@ -1,6 +1,6 @@
 export const config = {
   fileList: [
-    // 'products_01.json.gz',
+    'products_01.json.gz',
     'products_02.json.gz',
     'products_03.json.gz',
     'products_04.json.gz',

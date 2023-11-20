@@ -27,29 +27,24 @@
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Instalação
+
+# Clonando o repositório
+ . Acessar o github https://github.com/RobertoCabralCRCN/Teste-Teddy
+ . Clonar repositório
+ . Baixar as dependências usando: "yarn"
+ 
 **Instalar repositório:**
   - Ter docker e docker compose instalado
 
   1. Acessar o diretório do projeto (Test-Teddy-Open)
 
-  2. Executar o comando de instalação 
+  2. Executar o comando de instalação "docker compose up -d"
 
-```bash
-$ yarn install
-```
+
 
 ## Running the app
 
-```bash
-# development
-$ yarn run start
 
-# watch mode
-$ yarn run start:dev
-
-# production mode
-$ yarn run start:prod
-```
 
 ## Test
 
@@ -87,14 +82,16 @@ Nest is [MIT licensed](LICENSE).
 
   - Bibliotecas utilizadas
   . Express
-  . MongoDB
+  . Mongoose
   . Jest
   . Axios
   . zlib
+  . class-validator
+  . class-transform
   . etc
 
   - Banco de dados utilizado
-  . Mongoose
+  . MongoDB
     
 ```
 
